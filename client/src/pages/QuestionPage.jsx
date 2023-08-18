@@ -52,6 +52,7 @@ const QuestionPage = () => {
       "top-k-frequent-elements": "64dd40e6da095c74a4199804",
       "product-of-array-except-self": "64dd423cda095c74a4199825",
       "valid-sudoku": "64de1a1347d5248a450168f3",
+      "longest-consecutive-sequence": "64df7e03859adf24d87260c9",
     };
 
     const lookupId = questionIdSchema[quesId] || quesId;
