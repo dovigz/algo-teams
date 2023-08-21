@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.68abf44c.css",
-    "main.js": "/static/js/main.353a7d3d.js",
+    "main.js": "/static/js/main.db0f414c.js",
     "static/media/algo-teams.svg": "/static/media/algo-teams.b5308ea383811d3087243a335ec7e266.svg",
     "static/media/montserrat-latin-700italic.woff": "/static/media/montserrat-latin-700italic.6779372f04095051c62e.woff",
     "static/media/montserrat-latin-800italic.woff": "/static/media/montserrat-latin-800italic.fe82abb0bcede51bf724.woff",
@@ -40,8 +40,8 @@
     "static/media/montserrat-latin-100italic.woff2": "/static/media/montserrat-latin-100italic.e279051046ba1286706a.woff2",
     "static/media/montserrat-latin-100.woff2": "/static/media/montserrat-latin-100.8d7d79679b70dbe27172.woff2",
     "static/media/ruby.svg": "/static/media/ruby.afa71f3a0009d4f48e99d5b9fe499547.svg",
+    "static/media/404-error.svg": "/static/media/404-error.bb3bc42019fce77cdb52a5e82a350a97.svg",
     "static/media/rust.svg": "/static/media/rust.5d24aedb479bc1b8de9ffcc801d77364.svg",
-    "static/media/404-error.svg": "/static/media/404-error.f711e1b3b554994efe7c5ca5c9359b99.svg",
     "static/media/php.svg": "/static/media/php.5d23bf1f327ed670042b0ef63ed368e6.svg",
     "static/media/3rd-place-medal.svg": "/static/media/3rd-place-medal.b26925811109d026027b076b7efac342.svg",
     "static/media/dart.svg": "/static/media/dart.700dbad07ecec45600db7a175b96d34a.svg",
@@ -61,17 +61,17 @@
     "static/media/swift.svg": "/static/media/swift.5bde53693ca8bd71bb31c40eddcb2912.svg",
     "static/media/javascript.svg": "/static/media/javascript.43065f862e11b42f3c274031538dfef5.svg",
     "index.html": "/index.html",
-    "static/media/accepted.svg": "/static/media/accepted.5b8cb0e6d24f8ca44ae0c6fa324006cb.svg",
+    "static/media/accepted.svg": "/static/media/accepted.e277c840719590e9c707a2b3160667f9.svg",
     "static/media/c.svg": "/static/media/c.070693d99e0c582203715d9b81ad5b7e.svg",
-    "static/media/downvote.svg": "/static/media/downvote.c2e96646e7d66350df8e609ba5dc5a2d.svg",
-    "static/media/upvote.svg": "/static/media/upvote.cac48af1f5085fdc71f28ca402cae2a3.svg",
+    "static/media/downvote.svg": "/static/media/downvote.7ebb691251714eefd6826fdd0752ac6f.svg",
+    "static/media/upvote.svg": "/static/media/upvote.9f60776650b194a8717c83408875cf66.svg",
     "static/media/code.svg": "/static/media/code.e87219358931906567b676e0f57cc0d4.svg",
     "static/media/kotlin.svg": "/static/media/kotlin.938ec0b2ee0b4bc3780e9ae6a8d03330.svg",
     "main.68abf44c.css.map": "/static/css/main.68abf44c.css.map",
-    "main.353a7d3d.js.map": "/static/js/main.353a7d3d.js.map"
+    "main.db0f414c.js.map": "/static/js/main.db0f414c.js.map"
   },
   "entrypoints": [
     "static/css/main.68abf44c.css",
-    "static/js/main.353a7d3d.js"
+    "static/js/main.db0f414c.js"
   ]
 }
