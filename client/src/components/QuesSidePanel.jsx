@@ -43,13 +43,13 @@ const QuesSidePanel = ({ id, title, answersAuthorsArray, end_time, slug }) => {
     };
   }, []);
 
-  let countdown;
-  if (timeLeft) {
-    countdown = `${title} - ${timeLeft?.days()}D ${timeLeft?.hours()}h ${timeLeft?.minutes()}m ${timeLeft?.seconds()}s`;
-  } else {
-    // AUg 4th 8:30pm
-    countdown = `${title} - Ended: ${moment(end_time).format("MMM Do h:mm a")}`;
-  }
+  // let countdown;
+  // if (timeLeft) {
+  //   countdown = `${title} - ${timeLeft?.days()}D ${timeLeft?.hours()}h ${timeLeft?.minutes()}m ${timeLeft?.seconds()}s`;
+  // } else {
+  //   // AUg 4th 8:30pm
+  //   countdown = `${title} - Ended: ${moment(end_time).format("MMM Do h:mm a")}`;
+  // }
   const { notify } = useStateContext();
   const theme = useTheme();
   const { data, loading } = useQuery(GET_ALL_USERS, {
@@ -98,7 +98,7 @@ const QuesSidePanel = ({ id, title, answersAuthorsArray, end_time, slug }) => {
           }}
           style={{ cursor: "pointer" }}
         >
-          {countdown}
+          {title}
         </Typography>
         {!loading && data ? (
           <div style={{ display: "flex", flexWrap: "wrap" }}>
